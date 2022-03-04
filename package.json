@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "gh-pages": "tsc && vite build --base='/phaser-arcade/'"
+    "gh-pages": "tsc && vite build --base='/phaser-tutorial/'"
   },
   "devDependencies": {
     "typescript": "^4.5.4",
